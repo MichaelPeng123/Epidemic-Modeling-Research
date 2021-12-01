@@ -1,4 +1,4 @@
-# Pioneer Academics Research Project
+# Epidemic Modeling Research Project
 
 The COVID-19 crisis has drastically impacted the world we know. In the presence of such a contagious contact disease, it is important to see the world not as a network of individuals, but as a network of families, something that the foundation of our physical society is built on. The proximal relationships that people have with their family members can create unpredictability when evaluating the topics of spread and containment. Hence, it is important to study networks with family clusters to better understand the behavior of an epidemic. 
 
